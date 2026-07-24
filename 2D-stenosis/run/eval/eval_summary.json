@@ -1,0 +1,7 @@
+{
+  "velocity_relative_L2_error": 0.007885923265279465,
+  "wss_relative_L2_error": 0.034725307381779674,
+  "wss_MAE_nondimensional": 0.0020359124008951447,
+  "wss_MAE_dimensional_Pa": 3.3182440420733574e-08,
+  "wss_R2": 0.9980756429185342
+}
