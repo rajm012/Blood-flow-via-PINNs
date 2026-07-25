@@ -1,0 +1,10 @@
+{
+  "velocity_relative_L2_error": 0.34293364324847597,
+  "wss_relative_L2_error": 0.8673976316426658,
+  "wss_MAE_nondimensional": 0.015504541257374698,
+  "wss_MAE_dimensional_Pa": 1.1454407779224264e-06,
+  "wss_R2": -0.06166667064751885,
+  "used_estimated_normals": true,
+  "n_wall_bc_points_after_crop": 306,
+  "n_wss_points_after_crop": 310
+}
